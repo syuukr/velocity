@@ -63,7 +63,7 @@ forced-hosts = {}
 	try = ["thewar"]
 	# Configure your servers here. Each key represents the server's name, and the value
 	# represents the IP address of the server to connect to.
-	thewar = "39.113.248.88:25577"
+	thewar = "39.113.248.80:25577"
 	#limbo = "39.113.248.88:65535"
 
 # Configure your forced hosts here.
