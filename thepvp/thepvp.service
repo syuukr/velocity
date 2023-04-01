@@ -3,7 +3,7 @@ Description=The PVP Velocity
 
 [Service]
 WorkingDirectory=/root/velocity/thepvp
-ExecStart=java -Xms1G -Xmx1G -XX:+UseG1GC -XX:G1HeapRegionSize=4M -XX:+UnlockExperimentalVMOptions -XX:+ParallelRefProcEnabled -XX:+AlwaysPreTouch -XX:MaxInlineLevel=15 -jar velocity*.jar
+ExecStart=java -Xms1G -Xmx1G -XX:+UseG1GC -XX:G1HeapRegionSize=4M -XX:+UnlockExperimentalVMOptions -XX:+ParallelRefProcEnabled -XX:+AlwaysPreTouch -XX:MaxInlineLevel=15 -jar velocity-3.2.0-SNAPSHOT-245.jar
 
 [Install]
 WantedBy=multi-user.target
