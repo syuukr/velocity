@@ -7,7 +7,7 @@ bind = "0.0.0.0:20000"
 motd = "<#084cfb>T<#195dfb>H<#296dfb>E <#3a7efc>W<#4a8ffc>A<#5ba0fc>R <#6bb0fc>- <#7cc1fc>E<#8cd2fd>p<#9de2fd>.<#adf3fd>1"
 # What should we display for the maximum number of players? (Velocity does not support a cap
 # on the number of players online.)
-show-max-players = 2000
+show-max-players = 1000
 # Should we authenticate players with Mojang? By default, this is on.
 online-mode = true
 # Should the proxy enforce the new public key security standard? By default, this is on.
