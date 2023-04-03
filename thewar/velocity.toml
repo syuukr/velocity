@@ -4,7 +4,7 @@ config-version = "2.6"
 bind = "0.0.0.0:20000"
 # What should be the MOTD? This gets displayed when the player adds your server to
 # their server list. Only MiniMessage format is accepted.
-motd = "<#09add3>The WAR"
+motd = "<#084cfb>T<#195dfb>H<#296dfb>E <#3a7efc>W<#4a8ffc>A<#5ba0fc>R <#6bb0fc>- <#7cc1fc>E<#8cd2fd>p<#9de2fd>.<#adf3fd>1"
 # What should we display for the maximum number of players? (Velocity does not support a cap
 # on the number of players online.)
 show-max-players = 2000
