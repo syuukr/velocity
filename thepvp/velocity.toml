@@ -63,7 +63,7 @@ forced-hosts = {}
 	try = ["thepvp"]
 	# Configure your servers here. Each key represents the server's name, and the value
 	# represents the IP address of the server to connect to.
-	thepvp = "38.60.220.7:25565"
+	thepvp = "x.x.x.x:x"
 
 # Configure your forced hosts here.
 [advanced]
